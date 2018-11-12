@@ -15,10 +15,21 @@ The goal of this list is to give a track to follow to get up to speed, understan
 
 ## AI
 
+AI is probably the most contested field in the last few years, where many actors are trying to dictate the narrative, either for ideological reasons, economical interests or both. The Academia and the Engineers are lagging behind but recently more and more content is being produced to counter the established narrative. 
+
+AI, in this context, means a fuzzily-defined set of technologies that include machine-learning, at-scale data gathering and analytics, modern industrial automation, chatbots, autonomous vehicles and drones control systems and occasionally other technologies.
+
+[The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
 
 ### AI and Ethics
+[The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 ### AI and Politics
+[Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)
 
 ## Other
 
 [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex): why the "coding is fun" narrative is dangerous and insulting to students and engineers.
+
+## Contributing
+
+Feel free to add your contributions through issues and pull requests. We invite diverse and conflicting voices to participate in the discussion as long as they respect the premises of this list and the content proposed is solid, sound and well-founded.
