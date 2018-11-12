@@ -26,9 +26,14 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 ### AI and Politics
 [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)
 
-## Other
+## Labor
 
 [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex): why the "coding is fun" narrative is dangerous and insulting to students and engineers.
+
+## Other Reading Lists
+
+[Awful AI](https://github.com/daviddao/awful-ai)
+[Toward ethical, transparent and fair AI/ML: a critical reading list](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea)
 
 ## Contributing
 
