@@ -18,3 +18,7 @@ The goal of this list is to give a track to follow to get up to speed, understan
 
 ### AI and Ethics
 ### AI and Politics
+
+## Other
+
+[Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex): why the "coding is fun" narrative is dangerous and insulting to students and engineers.
