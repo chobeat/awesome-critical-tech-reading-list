@@ -25,6 +25,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 ### AI and Politics
 * [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)
+* [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
 ## Labor
 
@@ -34,6 +35,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Awful AI](https://github.com/daviddao/awful-ai)
 * [Toward ethical, transparent and fair AI/ML: a critical reading list](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea)
+
+## Newsletters
+* [Tech Worker Coalition Newsletter](https://techworkerscoalition.us11.list-manage.com/subscribe?u=194e57c175176cfd13007a197&id=7cb85d276a)
 
 ## Contributing
 
