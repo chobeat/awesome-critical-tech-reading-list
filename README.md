@@ -30,6 +30,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 ## Labor
 
 * [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex): why the "coding is fun" narrative is dangerous and insulting to students and engineers.
+* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html): how the Agile development methodology empowered IT workers and protected them over the years and how alternatives are threatening workers' autonomy.
 
 ## Other Reading Lists
 
