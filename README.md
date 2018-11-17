@@ -5,13 +5,16 @@ This repository collects interesting books and articles useful to understand the
 
 The goal of this list is to give a track to follow to get up to speed, understand the implications of tech in modern society and be able to participate in the debate, so that engineers won't take a passive role anymore but instead develop their own discourse, a step necessary to go beyond the reductionist, simplified views that in the past years prevented us to take a relevant role in shaping our present. 
 
-### Basics
+## Basics
 
 * [Post-capitalism: A Guide to our future](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_Our_Future): a short reflection on how the information economy has changed the rules of labour and market, how Tech might shape them in the future and how new technologies and new modes of production enable us to achieve critical medium/long term goals.
 
 * [Inventing the Future: Postcapitalism and a world without work](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work): this book outlines a practical strategy to act upon the current problems of our society and places engineers and makers in a pivotal position to shape a better idea of future. A reading necessary to understand why political involvement of tech people is decisive and how they are greatly empowered by the new economical and political conjuncture.
 
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker): this list of articles details different aspects of being a worker in Tech nowadays, what is going on politically and socially in American big tech companies and how Tech workers are beginning to organize themselves. This bridges the concepts introduced by the first two books with what is likely your daily experience of working in a company.
+
+## Basics (Optional)
+* [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction): using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
 
 ## AI
 
