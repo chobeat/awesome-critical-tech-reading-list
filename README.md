@@ -12,12 +12,12 @@ AI is probably the most contested field in the last few years, where many actors
 
 AI, in this context, means a fuzzily-defined set of technologies that include machine-learning, at-scale data gathering and analytics, modern industrial automation, chatbots, autonomous vehicles, drones control systems and other technologies.
 
-* [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
+* [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/): illustrating the most common fallacies in predicting the future of tech.
 
 ### AI and Ethics
 * [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 ### AI and Politics
-* [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)
+* [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224): great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
 * [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
 
 ## Labor
