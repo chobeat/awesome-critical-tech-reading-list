@@ -12,6 +12,7 @@ AI is probably the most contested field in the last few years, where many actors
 
 AI, in this context, means a fuzzily-defined set of technologies that include machine-learning, at-scale data gathering and analytics, modern industrial automation, chatbots, autonomous vehicles, drones control systems and other technologies.
 
+* [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/)
 * [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/): illustrating the most common fallacies in predicting the future of tech.
 
 ### AI and Ethics
