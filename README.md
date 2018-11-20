@@ -16,6 +16,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/): illustrating the most common fallacies in predicting the future of tech.
 
 ### AI and Ethics
+* [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679)
 * [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
 ### AI and Politics
 * [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224): great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
