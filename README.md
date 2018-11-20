@@ -5,6 +5,7 @@ This repository collects interesting books and articles useful to understand pol
 
 The goal of this list is to give a track to follow to get up to speed, understand the implications of tech in modern society and be able to participate in the debate, so that engineers can inform themselves in order to develop their own discourse. This is step necessary to go beyond the reductionist, simplified views that in the past years prevented us to take a relevant role in shaping our present. 
 
+*The List is a continous work in progress. It will be updated with new and better material. Feel free to contribute by opening a issue here on GitHub*
 
 ## AI
 
