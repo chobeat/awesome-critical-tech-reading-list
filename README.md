@@ -1,4 +1,4 @@
-# awesome-critical-tech-reading-list
+# A Critical Reading list on Tech && (Politics || Society || Ethics)
 An opinionated reading list for the critical programmer. Books and articles about the intersection of Technology with politics, society and ethics. A list curated by programmers for programmers.
 
 This repository collects interesting books and articles useful to understand political, social and ethical discourses about new technological developments. Understanding this connection is necessary to create a fair and sustainable future. The discourse affects programmers and tech people that become passive actors. This is due to their general lack of interest in these topics, scarcity of time to dedicate to non-technical readings and the existence of barriers preventing inter-disciplinary communication with philosophers, journalists and artists. 
