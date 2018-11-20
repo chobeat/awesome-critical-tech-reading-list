@@ -13,33 +13,33 @@ AI is probably the most contested field in the last few years, where many actors
 
 AI, in this context, means a fuzzily-defined set of technologies that include machine-learning, at-scale data gathering and analytics, modern industrial automation, chatbots, autonomous vehicles, drones control systems and other technologies.
 
-* [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/)
-* [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/): illustrating the most common fallacies in predicting the future of tech.
+* [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/)[2014]: general, high-level overview how algorithms influence our lives and how to investigate them
+* [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)[2017]: illustrating the most common fallacies in predicting the future of tech.
 
 #### AI and Ethics
-* [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679)
-* [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)
+* [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679)[2016]
+* [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf)[2017]
 #### AI and Politics
-* [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224): great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
-* [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)
+* [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224)[2017]: great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
+* [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/)[2017]
 
 ## Labor
 
-* [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex): why the "coding is fun" narrative is dangerous and insulting to students and engineers.
-* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html): how Agile development methodology empowered IT workers and protected them over the years and how alternatives are threatening workers' autonomy.
-* [Understanding Fair Labor Practices in a Networked Age](https://datasociety.net/pubs/fow/FairLabor.pdf)
+* [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex)[2016]: why the "coding is fun" narrative is dangerous and insulting to students and engineers.
+* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html)[2014]: how Agile development methodology empowered IT workers and protected them over the years and how alternatives are threatening workers' autonomy.
+* [Understanding Fair Labor Practices in a Networked Age](https://datasociety.net/pubs/fow/FairLabor.pdf)[2014]
 
 
 ## Meta
-* [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction): using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
+* [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction)[2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
 
 ## What is going on around you and what role do you play in it?
 
-* [Post-capitalism: A Guide to our future](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_Our_Future): a short reflection on how the information economy has changed the rules of labor and market, how Tech might shape them in the future and how new technologies and how changing how programmers work will help us achieve critical medium/long term goals.
+* [Post-capitalism: A Guide to our future](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_Our_Future)[2015]: a short reflection on how the information economy has changed the rules of labor and market, how Tech might shape them in the future and how new technologies and how changing how programmers work will help us achieve critical medium/long term goals.
 
-* [Inventing the Future: Postcapitalism and a world without work](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work): this book outlines a practical strategy to act upon the current problems of our society and places engineers and makers in a pivotal position to shape a better idea of future. The book explains how tech people are greatly empowered by the new economic and political conjunction to shape the future.
+* [Inventing the Future: Postcapitalism and a world without work](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work)[2015]: this book outlines a practical strategy to act upon the current problems of our society and places engineers and makers in a pivotal position to shape a better idea of future. The book explains how tech people are greatly empowered by the new economic and political conjunction to shape the future.
 
-* [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker): this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
+* [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker)[2018]: this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
 
 ## Privacy
 
