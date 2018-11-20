@@ -41,6 +41,10 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker): this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
 
+## Privacy
+
+Contributions are welcome
+
 ## Other Reading Lists
 
 * [Awful AI](https://github.com/daviddao/awful-ai): a list of unethical usages of AI
