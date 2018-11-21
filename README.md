@@ -56,3 +56,8 @@ Contributions are welcome
 ## Contributing
 
 Feel free to add your contributions through issues and pull requests. We invite diverse and conflicting voices to participate in the discussion as long as they respect the premises of this list and the content proposed is solid, sound and well-founded.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
