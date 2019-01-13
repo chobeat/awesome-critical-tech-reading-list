@@ -16,7 +16,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Algorithmic Accountability: On the Investigation of Black Boxes](https://towcenter.org/research/algorithmic-accountability-on-the-investigation-of-black-boxes-2/) [2014]: general, high-level overview how algorithms influence our lives and how to investigate them
 * [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/) [2017]: illustrating the most common fallacies in predicting the future of tech.
 
-* [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction): a practical critique of how algorithmic transparency is dealt with in our society. It explains how blind faith in data analysis is dangerous and how unfairness is reproduced thorugh algorithms, that without transparency become a tool to reinforce the status quo.
+* [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction): a practical critique of how algorithmic transparency is dealt with in our society. It explains how blind faith in data analysis is dangerous and how unfairness is reproduced through algorithms, that without transparency become a tool to reinforce the status quo.
 
 #### AI and Ethics
 * [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679) [2016]
