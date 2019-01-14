@@ -25,6 +25,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Manufacturing an Artificial Intelligence Revolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224) [2017]: great analysis of the existing narrative about the "AI Revolution", how it came to be, who profits from it and what's hidden underneath
 * [Why AI is still waiting for its ethics transplant](https://www.wired.com/story/why-ai-is-still-waiting-for-its-ethics-transplant/) [2017]
 
+#### AI and Academia
+* [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/abs/1807.03341)
+
 ## Labor
 
 * [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex) [2016]: why the "coding is fun" narrative is dangerous and insulting to students and engineers.
