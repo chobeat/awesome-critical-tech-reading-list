@@ -17,7 +17,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [The Seven Deadly Sins of Predicting the Future of AI](http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/) [2017]: illustrating the most common fallacies in predicting the future of tech.
 * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction): a practical critique of how algorithmic transparency is dealt with in our society. It explains how blind faith in data analysis is dangerous and how unfairness is reproduced through algorithms, that without transparency become a tool to reinforce the status quo.
 * [The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7): a purely technical critique of the existing AI narrative and how it's detached from the existing technology.
-
+* [Notes on AI Bias](https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias) A, rather technical, explanation of where the bias in machine learning systems come from and how to deal with it.
 #### AI and Ethics
 * [The ethics of algorithms: Mapping the debate](https://journals.sagepub.com/doi/pdf/10.1177/2053951716679679) [2016]
 * [The Mythos of model interpretability](https://arxiv.org/pdf/1606.03490.pdf) [2017]
