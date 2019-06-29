@@ -6,7 +6,7 @@ This repository collects interesting books and articles useful to understand pol
 The goal of this list is to give a track to follow to get up to speed, understand the implications of tech in modern society and be able to participate in the debate, so that engineers can inform themselves in order to develop their own discourse. This is step necessary to go beyond the reductionist, simplified views that in the past years prevented us to take a relevant role in shaping our present. The list is kept short by design, with just a few articles on each subject. We don't want it to be overwhelming. If an article made the cut, it means we deem it a necessary reading.
 
 *The List is a continous work in progress. It will be updated with new and better material. Feel free to contribute by opening a issue here on GitHub*
-
+---
 ## AI
 
 AI is probably the most contested field in the last few years, where many actors are trying to dictate the narrative, either for ideological reasons, economical interests or both. The Academia and the Engineers are lagging behind but recently more and more content is being produced to counter the established narrative. 
@@ -38,6 +38,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
 * [Do Artifacts Have Politics?](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)[1980]: in a single paper, the author highlights how both engineers and social scientists misinterpret the relationship between technology and society. In particular he attacks the narrative, widespread among engineers, that artifacts have no political properties in themselves and that function or efficiency are the only drivers of technological design and implementation.
 
+## Privacy
+
+* [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
 
 ## What is going on around you and what role do you play in it?
 
@@ -47,9 +50,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker) [2018]: this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
 
-## Privacy
-
-* [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
+---
 
 ## Other Reading Lists
 
