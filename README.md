@@ -51,8 +51,6 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
 
-Contributions are welcome
-
 ## Other Reading Lists
 
 * [Awful AI](https://github.com/daviddao/awful-ai): a list of unethical usages of AI
