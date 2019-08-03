@@ -34,6 +34,8 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Freedom isn't free](https://logicmag.io/05-freedom-isnt-free/): why the open source movement should be considered a failure and how to turn it in a bolder plan to rethink how we produce information
 * [Understanding Fair Labor Practices in a Networked Age](https://datasociety.net/pubs/fow/FairLabor.pdf) [2014]
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)[2015]: this article explores the reasons why Programmers are rarely engineers and why they should be
+* [Why Are Young People Pretending to Love Work?](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html)[2019]: short article describing the rise of the hustle culture and how it's spearheaded by the IT industry, summarizing and pointing to other material about resistance to toxic working culture.
+* [Loomio Cooperative Handbook](https://loomio.coop/): extensive guide on how to create your democratic worker-owned cooperative to develop a software product
 
 
 ## Meta
