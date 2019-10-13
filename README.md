@@ -61,9 +61,10 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Awful AI](https://github.com/daviddao/awful-ai): a list of unethical usages of AI
 * [Toward ethical, transparent and fair AI/ML: a critical reading list](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea): a 360° reading list on AI and its impact on modern society. Great inspiration and source of content for the list you're reading.
 
-## Newsletters and periodical publications 
+## Newsletters, magazines and periodical publications 
 * [Tech Worker Coalition Newsletter](https://techworkerscoalition.us11.list-manage.com/subscribe?u=194e57c175176cfd13007a197&id=7cb85d276a): newsletter of the Tech Worker Coalition, a modern labor union for American Tech Workers. Covers news on Technology, strikes in the IT sector and new high-quality content in the discourse.
 * [Logicmac](https://logicmag.io/): The Magazine about technological critique. Released in seasonal issues with a central topic and contributions from different authors and specialists.
+* [The Register](https://www.theregister.co.uk/): A news website reporting on tech news from a critical perspective. 
 
 ## Contributing
 
