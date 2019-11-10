@@ -47,6 +47,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
 
+## Other
+[Unplanned Obsolescence: Hardware and Software After Collapse ](https://kurti.sh/pubs/unplanned_limits17.pdf)[2017]: an analysis of the problems computing will face once the internet and the hardware supply chain will collapse.
+
 ## What is going on around you and what role do you play in it?
 
 * [Post-capitalism: A Guide to our future](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_Our_Future) [2015]: a short reflection on how the information economy has changed the rules of labor and market, how Tech might shape them in the future and how new technologies and how changing how programmers work will help us achieve critical medium/long term goals.
