@@ -71,7 +71,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Logicmac](https://logicmag.io/): The Magazine about technological critique. Released in seasonal issues with a central topic and contributions from different authors and specialists.
 * [The Register](https://www.theregister.co.uk/): A news website reporting on tech news from a critical perspective. 
 * [Hacker News](https://news.ycombinator.com): The legendary tech and startup news site.
-* [SkimFeed](https://skimfeed.com): A tech and startup news feed aggregator, including HN, /., The Register and many more.
+* [SkimFeed](https://skimfeed.com): A tech and startup news feed aggregator, including HN, /. and many more. Custom and themed feeds available too.
 * [Economic Update by D@W](https://www.democracyatwork.info/economicupdate): Weekly news and interview video & podcast series by Dr. Richard Wolff.
 
 ## Contributing
@@ -81,3 +81,4 @@ Feel free to add your contributions through issues and pull requests. We invite 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
