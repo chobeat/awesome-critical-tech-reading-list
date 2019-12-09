@@ -74,6 +74,10 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [SkimFeed](https://skimfeed.com): A tech and startup news feed aggregator, including HN, /. and many more. Custom and themed feeds available too.
 * [Economic Update by D@W](https://www.democracyatwork.info/economicupdate): Weekly news and interview video & podcast series by Dr. Richard Wolff.
 
+## Bias ratings of news organizations
+* [AllSides](https://www.allsides.com): Community and assigned bias-ratings. 
+* [Media Bias/Fact Check](https://mediabiasfactcheck.com): (Ads/freemium) Bias ratings, including calling-out conspiracy theory and magical thinking sites.
+
 ## Contributing
 
 Feel free to add your contributions through issues and pull requests. We invite diverse and conflicting voices to participate in the discussion as long as they respect the premises of this list and the content proposed is solid, sound and well-founded.
@@ -81,4 +85,3 @@ Feel free to add your contributions through issues and pull requests. We invite 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
