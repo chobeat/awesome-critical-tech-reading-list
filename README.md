@@ -37,7 +37,8 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)[2015]: this article explores the reasons why Programmers are rarely engineers and why they should be
 * [Why Are Young People Pretending to Love Work?](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html)[2019]: short article describing the rise of the hustle culture and how it's spearheaded by the IT industry, summarizing and pointing to other material about resistance to toxic working culture.
 * [Loomio Cooperative Handbook](https://loomio.coop/): extensive guide on how to create your democratic worker-owned cooperative to develop a software product
-
+* [IG Metall](https://www.igmetall.de/ueber-uns/ig-metall--a-strong-community): An example of a strong German labor union that also represents tech workers and is helping to organize YouTubers.
+* [Democracy@Work](https://www.democracyatwork.info): In cooperation with The New School and led by Dr. Richard Wolff, a news and analysis site focused on work's trends and economics, especially ideas like worker-owned co-operatives.
 
 ## Meta
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
@@ -69,6 +70,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Tech Worker Coalition Newsletter](https://techworkerscoalition.us11.list-manage.com/subscribe?u=194e57c175176cfd13007a197&id=7cb85d276a): newsletter of the Tech Worker Coalition, a modern labor union for American Tech Workers. Covers news on Technology, strikes in the IT sector and new high-quality content in the discourse.
 * [Logicmac](https://logicmag.io/): The Magazine about technological critique. Released in seasonal issues with a central topic and contributions from different authors and specialists.
 * [The Register](https://www.theregister.co.uk/): A news website reporting on tech news from a critical perspective. 
+* [Hacker News](https://news.ycombinator.com): The legendary tech and startup news site.
+* [SkimFeed](https://skimfeed.com): A tech and startup news feed aggregator, including HN, /., The Register and many more.
+* [Economic Update by D@W](https://www.democracyatwork.info/economicupdate): Weekly news and interview video & podcast series by Dr. Richard Wolff.
 
 ## Contributing
 
@@ -77,4 +81,3 @@ Feel free to add your contributions through issues and pull requests. We invite 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
