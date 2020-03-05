@@ -50,6 +50,12 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Psychometric Profiling: Persuasion by Personality in Elections](https://ourdataourselves.tacticaltech.org/posts/psychometric-profiling/): this article presents the current methodologies used to extract psychological information about citizens and how they are used for political campaigns.
 
+## Software Licensing
+
+* [The original sin of Free Software](https://lipu.dgold.eu/original-sin.html)[2019]: highlights the issues with the original conceptualization of Free Software and how they relate to the current issues related to software ownership, to the colonization of Open Source by corporations and in general to the liberation of Software.
+
+* [CoopyLeft](https://wiki.coopcycle.org/en:license)[2020]: A license that reservers commercial usage only to cooperatives.
+
 ## Other
 [Unplanned Obsolescence: Hardware and Software After Collapse ](https://kurti.sh/pubs/unplanned_limits17.pdf)[2017]: an analysis of the problems computing will face once the internet and the hardware supply chain will collapse.
 
