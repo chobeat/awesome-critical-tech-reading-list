@@ -34,7 +34,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 ## Labor
 
 * [Coding is not ‘fun’, it’s technically and ethically complex](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex) [2016]: why the "coding is fun" narrative is dangerous and insulting to students and engineers.
-* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html) [2014]: how Agile development methodology empowered IT workers and protected them over the years and how alternatives are threatening workers' autonomy.
+* [The Agile Labor Union](http://www.metareader.org/post/agile-labor-union.html) [2014]: The Agile movement had ambitions to protect the interests of software engineers at work similiar to a craft union, however its fatal flaw was framing the purpose of the movement as wholly in service of business goals, which left it open to internal takeover by Lean methodologies, and to external challenges from specialized User-Centered Design that better understood software design as a socio-technical process (while also undermining user autonomy).
 * [Freedom isn't free](https://logicmag.io/05-freedom-isnt-free/): why the open source movement should be considered a failure and how to turn it in a bolder plan to rethink how we produce information
 * [Understanding Fair Labor Practices in a Networked Age](https://datasociety.net/pubs/fow/FairLabor.pdf) [2014]
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)[2015]: this article explores the reasons why Programmers are rarely engineers and why they should be
