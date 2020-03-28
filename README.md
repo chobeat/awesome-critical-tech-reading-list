@@ -67,6 +67,9 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker) [2018]: this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
 
+* [On Design Thinking](https://nplusonemag.com/issue-35/reviews/on-design-thinking/) [2019]: What happened when one of the poorest cities in Florida turned to IDEO to "Reinvent Itself With UX Design". Highlighting Horst Rittel's concept of "wicked problems", against rationalist design, outlined in [Dilemmas in a General Theory of Planning](https://web.archive.org/web/20070930021510/http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf) [1973]. 
+
+
 ---
 
 ## Other Reading Lists
