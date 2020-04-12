@@ -40,7 +40,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)[2015]: this article explores the reasons why Programmers are rarely engineers and why they should be
 * [Why Are Young People Pretending to Love Work?](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html)[2019]: short article describing the rise of the hustle culture and how it's spearheaded by the IT industry, summarizing and pointing to other material about resistance to toxic working culture.
 * [Loomio Cooperative Handbook](https://loomio.coop/): extensive guide on how to create your democratic worker-owned cooperative to develop a software product
-
+* [Agile Methods: Collaborative work culture or digital Taylorism?](https://techworkersberlin.com/news/2020-04-01-timo_daum-agile_methods_english/): Timo Daum summarizes the history of Agile and the role it played in the IT sector, tracing also its expansion to other industries, asking questions about the power structures it created.
 
 ## Meta
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
