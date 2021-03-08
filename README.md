@@ -42,7 +42,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Loomio Cooperative Handbook](https://loomio.coop/): extensive guide on how to create your democratic worker-owned cooperative to develop a software product
 * [Agile Methods: Collaborative work culture or digital Taylorism?](https://techworkersberlin.com/news/2020-04-01-timo_daum-agile_methods_english/): Timo Daum summarizes the history of Agile and the role it played in the IT sector, tracing also its expansion to other industries, asking questions about the power structures it created.
 * [The Making of the Tech Worker Movement](https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/): Ben Tarnoff looks back at the last few years of tech work organizing and protests, trying to track the roots and the spirit behind tech workers coming together.
-
+* [Agile Methods](https://techworkersberlin.com/news/2020-04-01-timo_daum-agile_methods_english/): Timo Daum recaps and illustrates the broad changes brought to IT and the world by Agile Methods from a critical perspective.
 
 ## Meta
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
