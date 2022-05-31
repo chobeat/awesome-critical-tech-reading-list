@@ -66,8 +66,6 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 
 * [Post-capitalism: A Guide to our future](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_Our_Future) [2015]: a short reflection on how the information economy has changed the rules of labor and market, how Tech might shape them in the future and how new technologies and how changing how programmers work will help us achieve critical medium/long term goals.
 
-* [Inventing the Future: Postcapitalism and a world without work](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work) [2015]: this book outlines a practical strategy to act upon the current problems of our society and places engineers and makers in a pivotal position to shape a better idea of future. The book explains how tech people are greatly empowered by the new economic and political conjunction to shape the future.
-
 * [Notes from Below: Technology and the Worker](https://notesfrombelow.org/article/technology-and-the-worker) [2018]: this journal details different aspects of being a worker in Tech nowadays, reporting real life examples on what is going on politically and socially in American big tech companies, and how Tech workers are beginning to organize themselves. 
 
 * [On Design Thinking](https://nplusonemag.com/issue-35/reviews/on-design-thinking/) [2019]: What happened when one of the poorest cities in Florida turned to IDEO to "Reinvent Itself With UX Design". Highlighting Horst Rittel's concept of "wicked problems", against rationalist design, outlined in [Dilemmas in a General Theory of Planning](https://web.archive.org/web/20070930021510/http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf) [1973]. 
