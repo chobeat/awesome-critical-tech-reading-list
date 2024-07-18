@@ -87,7 +87,6 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Tech Worker Coalition Newsletter](https://news.techworkerscoalition.org/): newsletter of the Tech Worker Coalition, a modern labor union for American Tech Workers. Covers news on Technology, strikes in the IT sector and new high-quality content in the discourse.
 * [Logicmac](https://logicmag.io/): The Magazine about technological critique. Released in seasonal issues with a central topic and contributions from different authors and specialists.
 * [The Register](https://www.theregister.co.uk/): A news website reporting on tech news from a critical perspective. 
-* [The Syllabus / The Machinist](https://the-syllabus.com/goods/thematic/machinist/): A subsection of The Syllabus dedicated to technology: weekly curated digest of high quality contents.
 * [Skynet Today](https://www.skynettoday.com/): critical perspectives about "AI", in the form of news digests, editorials and theory
 
 ## Contributing
