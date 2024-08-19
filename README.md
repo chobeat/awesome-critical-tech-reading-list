@@ -51,6 +51,7 @@ AI, in this context, means a fuzzily-defined set of technologies that include ma
 * [Resisting reduction](https://jods.mitpress.mit.edu/pub/resisting-reduction) [2017]: using the religion around Singularity, the author presents in a concise way what does it mean to deal with complex systems and why naive, reductionists views should be rejected when presented as solutions to social problems.
 * [Do Artifacts Have Politics?](https://www.cc.gatech.edu/~beki/cs4001/Winner.pdf)[1980]: in a single paper, the author highlights how both engineers and social scientists misinterpret the relationship between technology and society. In particular he attacks the narrative, widespread among engineers, that artifacts have no political properties in themselves and that function or efficiency are the only drivers of technological design and implementation.
 * [The Californian Ideology](https://www.metamute.org/editorial/articles/californian-ideology)[1995]: a foundational paper that decades after its publication is still extremely actual. The paper covers the birth of the ideology that dominates the Silicon Valley, mixing hippie culture, right-wing libertarian values and unbounded techno-optimism. Extremely useful to frame the thinking of today's californian oligarchs.
+* [Calculating Empires - A Genealogy of Technology and Power Since 1500](https://calculatingempires.net): A gigantic diagram tracing the history of the relationship between power and technology.
 
 ## Privacy
 
